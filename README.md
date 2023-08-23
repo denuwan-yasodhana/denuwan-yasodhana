@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denuwan Yasodhana </h1>
-<h3 align="center">Passionate about crafting innovative software 👨‍💻 for Robot 🤖 mastery.</h3>
+<h3 align="center">Passionate about Crafting Innovative Software 👨‍💻 for Robot 🤖 Mastery.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denuwan-yasodhana&label=Profile%20views&color=0e75b6&style=flat" alt="denuwan-yasodhana" /> </p>
 
